@@ -11,7 +11,7 @@ import java.util.*
 import kotlin.concurrent.timer
 
 class MainActivity : AppCompatActivity() {
-
+    //변경했음
     private var time =0
     private var timerTask : Timer?=null
 
